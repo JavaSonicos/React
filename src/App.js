@@ -13,9 +13,9 @@ import {
 
 import { Carrito } from './components/paginas/Carrito';
 import { Navegacion } from './components/navegacion/Navegacion';
-import { ListaProductos } from './components/paginas/ListaProductos';
+import { ListaProductos } from './components/ListaProductos';
 import { Home } from './components/paginas/Home';
-import { ModificarProducto } from './components/paginas/ModificarProducto';
+import { ModificarProducto } from './components/ModificarProducto';
 import { Ventas } from './components/paginas/Ventas';
 
 
