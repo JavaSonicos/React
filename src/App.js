@@ -11,7 +11,7 @@ import {
   Navigate
 } from "react-router-dom";
 
-import { Carrito } from './components/paginas/Carrito';
+import { Carrito } from './components/Carrito';
 import { Navegacion } from './components/navegacion/Navegacion';
 import { ListaProductos } from './components/ListaProductos';
 import { Home } from './components/paginas/Home';

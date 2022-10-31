@@ -24,7 +24,6 @@ export function Navegacion(){
             </Navbar.Collapse>
         </Container>
     </Navbar>
-
     );
   }
   
